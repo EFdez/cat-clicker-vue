@@ -6,13 +6,13 @@ var vm = new Vue({
                 id: 1,
                 name: 'Gato Casero',
                 count: 0,
-                img: '/house_cat.jpg'
+                img: 'house_cat.jpg'
             },
             {
                 id: 2,
                 name: 'Gato Callejero',
                 count: 0,
-                img: '/stray_cat.jpg'
+                img: 'stray_cat.jpg'
             },
         ]
     },
